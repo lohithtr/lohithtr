@@ -15,9 +15,6 @@ Passionate about building smart and scalable software solutions. I have hands-on
 ![](https://nirzak-streak-stats.vercel.app/?user=lohithtr&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lohithtr&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lohithtr&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=lohithtr&icon=5&color=13)](https://visitcount.itsvg.in)
 
