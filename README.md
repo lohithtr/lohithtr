@@ -2,7 +2,7 @@
 Passionate about building smart and scalable software solutions. I have hands-on experience with Java, SQL, HTML, CSS, and JavaScript, and I enjoy turning ideas into real-world applications.
 
 # 💫 About Me:
--🔭 I’m currently working on Java project.<br>- 🌱 I’m currently learning React.js.<br>- 👉 Check out my Resume here: https://drive.google.com/file/d/1Vq6JgCY9vyaqPkFvy7JHHzC7obMCFIBO/view?usp=drivesdk<br>- 💬 Ask me about Front-end Technologies.<br>- 📫 How to reach me: lohithtr46@gmail.com.<br>
+-🔭 I’m currently working on Java project.<br>- 🌱 I’m currently learning React.js.<br>- 👉 Check out my Resume here:https://drive.google.com/file/d/1l__eLYmaHgEOebNBe3dLcqA4z8m7zdq7/view?usp=drivesdk<br>- 💬 Ask me about Front-end Technologies.<br>- 📫 How to reach me: lohithtr46@gmail.com.<br>
 
 
 ## 🌐 Socials:
